@@ -1,0 +1,6 @@
+{
+  "name": "CREDITVERSE: The Ultimate Student Gaming Universe",
+  "description": "An anime and magical gamified entertainment universe for GDG on Campus. Earn credits, unlock characters, play dungeons, solve mysteries, and level up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
